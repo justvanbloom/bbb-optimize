@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Public IP address of the BBB server
-PUBLIC_IP="148.251.131.28"
+# PUBLIC_IP=""
 
 # Pull in the helper functions for configuring BigBlueButton
 source /etc/bigbluebutton/bbb-conf/apply-lib.sh
